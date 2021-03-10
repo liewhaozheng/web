@@ -3,8 +3,8 @@ body{
 }
 .btn{
   border:solid 3px black;
-  width:100px;
-  height:100px;
+  width:200px;
+  height:200px;
   display:inline;
   font-size:30px;
   color:#445599;
